@@ -20,7 +20,9 @@
 
 ## 🚀 Demo
 
-[![Click Here](https://img.shields.io/badge/Click%20Here-blue?style=for-the-badge)](https://threads-lyart-beta.vercel.app/)
+<a href="https://threads-lyart-beta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Click%20Here-blue?style=for-the-badge" alt="Click Here">
+</a>
 
 ## 📋 <a name="table">Table of Contents</a>
 
