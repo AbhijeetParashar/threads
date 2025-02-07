@@ -18,6 +18,10 @@
   <h3 align="center">A full stack Threads Clone</h3>
 </div>
 
+## 🚀 Demo
+
+[![Click Here](https://img.shields.io/badge/Click%20Here-blue?style=for-the-badge)](https://threads-lyart-beta.vercel.app/)
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -130,11 +134,15 @@ Create a new file named `.env` in the root of your project and add the following
 
 ```env
 MONGODB_URL=
-CLERK_SECRET_KEY=
 UPLOADTHING_SECRET=
-UPLOADTHING_APP_ID=
+UPLOADTHING_TOKEN=
 NEXT_CLERK_WEBHOOK_SECRET=
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=
 ```
 
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up for the corresponding websites on [MongoDB](https://www.mongodb.com/), [Clerk](https://clerk.com/), and [Uploadthing](https://uploadthing.com/).
