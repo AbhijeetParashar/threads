@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     siteName: "ConnectVerse",
     images: [
       {
-        url: "https://github-production-user-asset-6210df.s3.amazonaws.com/53019674/410921294-e22a692d-6e14-4fd4-b97c-3737a244b771.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250207T130600Z&X-Amz-Expires=300&X-Amz-Signature=6f9818bad63c7edfa80e239bf65f486893b3fbab8e65b4be86faed06ae95aa7d&X-Amz-SignedHeaders=host",
+        url: "https://i.pinimg.com/736x/74/f9/56/74f9569e940a6155371ee950544e4f38.jpg",
         width: 1200,
         height: 630,
         alt: "ConnectVerse - A Social Media Platform by Abhijeet Kumar",
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     description:
       "Discover ConnectVerse, a social media platform by Abhijeet Kumar, designed to bring people closer through seamless communication and sharing.",
     images: [
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/53019674/410921294-e22a692d-6e14-4fd4-b97c-3737a244b771.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250207T130600Z&X-Amz-Expires=300&X-Amz-Signature=6f9818bad63c7edfa80e239bf65f486893b3fbab8e65b4be86faed06ae95aa7d&X-Amz-SignedHeaders=host",
+      "https://i.pinimg.com/736x/74/f9/56/74f9569e940a6155371ee950544e4f38.jpg",
     ],
   },
   robots: {
